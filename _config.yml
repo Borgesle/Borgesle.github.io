@@ -19,8 +19,8 @@ email:
 description: Um blog de comida! 
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author: Lê Borgês
-  name: Leticia Borges
+author:
+  name: LLê Borgês
   twitter:
   picture:
 twitter_username:
